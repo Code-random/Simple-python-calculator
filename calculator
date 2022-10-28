@@ -15,11 +15,11 @@ def wyjątki(menu, l1, l2):
             
 def liczenie(menu, l1, l2):
     if menu == 1:
-        print("\n Wynik:", l1 + l2)
+        print("\n Answer:", l1 + l2)
     if menu == 2:
-        print("\n Wynik:", l1 - l2)
+        print("\n Answer:", l1 - l2)
     if menu == 3:
-        print("\n Wynik:", l1 * l2)
+        print("\n Answer:", l1 * l2)
     if menu == 4:
         if l2 != 0:
             print("\n Answer:", l1 / l2)
