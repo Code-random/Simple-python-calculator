@@ -1,1 +1,1 @@
-Just a simple calculator make in python.
+Repository of calculators in Python.
